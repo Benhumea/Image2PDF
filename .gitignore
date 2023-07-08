@@ -1,0 +1,5 @@
+*.pdf
+./test
+*.png
+*.jpg
+.gitignore
